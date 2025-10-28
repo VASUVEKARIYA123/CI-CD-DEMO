@@ -7,6 +7,10 @@ app.get("/", (req, res) => {
   res.send("This is Home Page");
 })
 
+app.get("/order", (req, res) => {
+    res.send("This is Order Page");
+})
+
 app.listen(PORT, () => {
   console.log(`Server is listening on port ${PORT}`)
 })
