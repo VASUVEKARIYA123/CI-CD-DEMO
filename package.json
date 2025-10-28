@@ -1,0 +1,23 @@
+{
+  "name": "ci-cd-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VASUVEKARIYA123/CI-CD-DEMO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VASUVEKARIYA123/CI-CD-DEMO/issues"
+  },
+  "homepage": "https://github.com/VASUVEKARIYA123/CI-CD-DEMO#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "typescript": "^5.9.3"
+  }
+}
